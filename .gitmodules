@@ -1,0 +1,12 @@
+[submodule "grupo1"]
+	path = grupo1
+	url = https://github.com/fab-rodrigs/portable-oscilloscope-pi3.git
+[submodule "grupo3"]
+	path = grupo3
+	url = https://github.com/tatimmtt/Jiga_controle_de_acesso.git
+[submodule "grupo4"]
+	path = grupo4
+	url = https://github.com/CaioMeira/Projeto-Integrador-3.git
+[submodule "grupo5"]
+	path = grupo5
+	url = https://github.com/pepeu321/Telemetria_e_controle_de_direcao_para_barco_eletrico.git
